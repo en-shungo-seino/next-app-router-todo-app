@@ -1,0 +1,4 @@
+{
+  "/tasks?user_id=:uid": "/tasks?userId=:uid",
+  "/tasks?page=:page": "/tasks?pageInfo.current_page=:page"
+}
